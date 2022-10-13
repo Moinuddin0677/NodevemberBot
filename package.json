@@ -1,0 +1,14 @@
+{
+  "name": "conf-edui2018-bot",
+  "version": "1.0.0",
+  "description": "\" \"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohd Moinuddin <moinuddin0677@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "generator-botbuilder": "^4.0.0"
+  }
+}
